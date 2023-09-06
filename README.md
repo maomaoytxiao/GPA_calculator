@@ -2,7 +2,7 @@
 
 A user-friendly web application for calculating GPA (Grade Point Average), built using HTML, CSS, and JavaScript.
 
-![[(https://github.com/maomaoytxiao/gpa-calculator-web/blob/main/gpa_calculator.PNG)](https://github.com/maomaoytxiao/GPA_calculator/blob/main/gpa_calculator.PNG)]
+![[(photo)](https://github.com/maomaoytxiao/GPA_calculator/blob/main/gpa_calculator.PNG)]
 
 ## Features
 
